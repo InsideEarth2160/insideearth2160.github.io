@@ -1,0 +1,51 @@
+BODY {
+	FONT-SIZE: 11px;
+	font-family: Tahoma, Arial CE, Helvetica CE, Arial, Helvetica;
+	SCROLLBAR-FACE-COLOR: #ffffff;
+	SCROLLBAR-HIGHLIGHT-COLOR: #000000;
+	SCROLLBAR-SHADOW-COLOR: #333333;
+	SCROLLBAR-3DLIGHT-COLOR: #666666;
+	SCROLLBAR-ARROW-COLOR: #000000;
+	SCROLLBAR-TRACK-COLOR: #000000;
+	SCROLLBAR-DARKSHADOW-COLOR: #000000;
+	background-color: #191919;
+}
+td { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #0099FF; }
+A {font-family: Tahoma, "Arial CE", "Helvetica CE", Arial, Helvetica; font-size: 11px; color: #0066CC; text-decoration: none; }
+A:hover {font-family: Tahoma, "Arial CE", "Helvetica CE", Arial, Helvetica; font-size: 11px; color: #66CCFF; }
+
+A.link_1:link { font-family: Verdana, Arial, Helvetica, sans-serif; color: #BA0000; FONT-SIZE: 10px; font-weight:bold;  text-decoration: none; }
+A.link_1:visited {font-family: Verdana, Arial, Helvetica, sans-serif; color: #BA0000; FONT-SIZE: 10px;font-weight:bold;   text-decoration: none; }
+A.link_1:active {font-family: Verdana, Arial, Helvetica, sans-serif; color: #BA0000;  FONT-SIZE: 10px;font-weight:bold;   text-decoration: none;  }
+A.link_1:hover { font-family: Verdana, Arial, Helvetica, sans-serif;color: #FFFFFF; FONT-SIZE: 10px;font-weight:bold;   text-decoration: none; } 
+
+
+
+.h1 {
+ font-family: Tahoma, Arial CE, Helvetica CE, Arial, Helvetica; font-size: 14px; color: #eeeeee; 
+}
+.h2 {
+ font-family: Tahoma, Arial CE, Helvetica CE, Arial, Helvetica; font-size: 13px; color: #FF3333; 
+}
+.copy {
+ font-family: Tahoma, Arial CE, Helvetica CE, Arial, Helvetica; font-size: 13px; color: #FF3333; 
+	font-size: 9px;
+	color: #999999;
+}
+.red{
+font-family: Verdana, Arial, Helvetica, sans-serif; color: #BA3737; FONT-SIZE: 10px; font-weight:bold;  text-decoration: none; 
+}
+.small2 {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #0099FF;
+}
+
+.border_bottom{
+
+border-bottom:1px solid #333333;
+}
+.border{
+
+border:1px solid #333333;
+}
